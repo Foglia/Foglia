@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I´m Flavia ! 👋
+### I´m a Developer, Artist and Content Creator 💻🎨💡. 
 
 👋 About Me:
 
