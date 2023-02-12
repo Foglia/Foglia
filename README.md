@@ -36,7 +36,7 @@
 
 📫 Get in Touch:
 
-You can find me at a neraby cafe in Lisbon or reach me at flavia.fogliato@gmail.com :D
+You can find me at a nearby cafe in Lisbon or reach me at flavia.fogliato@gmail.com :D
 
 <a href="https://linkedin.com/in/flaviafogliato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flaviafogliato" height="30" width="40" /></a>
 <a href="https://instagram.com/flavia_fogliato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flavia_fogliato" height="30" width="40" /></a>
