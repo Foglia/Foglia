@@ -4,7 +4,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=foglia&show_icons=true&locale=en&layout=compact" alt="foglia" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foglia&show_icons=true&locale=en" alt="foglia" /></p>
-
 <br>
 
 👋 About Me:
@@ -17,8 +16,8 @@
 
 💻 Tech Stack:
 
-- JavaScript(ES6) | React.js | HTML5 | CSS | Bootstrap | Node.js 
-- MongoDB 
+- JavaScript(ES6) | React.js | HTML5 | CSS | Bootstrap | jQuery 
+- Node.js | MongoDB 
 - Git
 
 <br>
@@ -41,3 +40,5 @@ You can find me at a nearby cafe in Lisbon or reach me at flavia.fogliato@gmail.
 <a href="https://linkedin.com/in/flaviafogliato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flaviafogliato" height="30" width="40" /></a>
 <a href="https://instagram.com/flavia_fogliato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flavia_fogliato" height="30" width="40" /></a>
 </p>
+<img src="https://www.codewars.com/users/Foglia/badges/micro" />
+
