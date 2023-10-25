@@ -43,4 +43,4 @@ You can find me at a nearby cafe in Lisbon or reach me at flavia.fogliato@gmail.
 </p>
 <img src="https://www.codewars.com/users/Foglia/badges/micro" />
 
-👨‍💻 <i> My projects are available at: </i> https://flaviafogliato.com/
+👨‍💻 <i> Some projects: </i> https://flaviafogliato.com/
